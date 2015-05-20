@@ -1,0 +1,2 @@
+include ':MyNewsDemo', ':myapplication'
+include ':librar'

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/Hello_Demo/Demos/MyNewsDemo/src/main/res/values-mdpi/colors.xml -->
+    <eat-comment/>
+    <color name="list_item_textColor">#A9A9A9</color>
+    <!-- From: file:/D:/Hello_Demo/Demos/MyNewsDemo/src/main/res/values-mdpi/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="list_item_height">100dp</dimen>
+    <dimen name="list_more_item_ll">120dp</dimen>
+    <dimen name="pager_image_height">15dp</dimen>
+    <dimen name="pager_image_width">20dp</dimen>
+    <dimen name="pager_ll">30dp</dimen>
+    <dimen name="right_margin">12dp</dimen>
+    <dimen name="textSize">20sp</dimen>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+   <ImageView
+       android:background="#000000"
+
+       android:scaleType="center"
+       android:layout_margin="12dp"
+       android:id="@+id/list_image"
+       android:layout_height="@dimen/list_item_height"
+       android:layout_width="0dp"
+       android:layout_weight="0.85"
+       />
+    <LinearLayout
+        android:layout_marginTop="15dp"
+        android:layout_height="@dimen/list_item_height"
+        android:layout_width="0dp"
+        android:layout_weight="2.15"
+        android:orientation="vertical">
+        <TextView
+
+        android:singleLine="true"
+         android:textSize="@dimen/textSize"
+        android:id="@+id/list_tv"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/title_text"/>
+
+        <TextView
+            android:id="@+id/content_tv"
+            android:textSize="@dimen/textSize"
+            android:lineSpacingExtra="7dp"
+            android:textColor="@color/list_item_textColor"
+            android:layout_marginTop="5dp"
+            android:maxLines="2"
+            android:ellipsize="end"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="@string/list_text"/>
+
+        </LinearLayout>
+    <View
+        android:layout_marginTop="12dp"
+        android:layout_width="@dimen/view_width"
+        android:layout_height="@dimen/list_item_height"/>
+
+</LinearLayout>

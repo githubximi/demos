@@ -1,0 +1,15 @@
+D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\classes\debug
+D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\classes-f0f74de0ad117bf63d40fe3eb3fba2af1c62251c.jar
+D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\avoscloud-statistics-v3.0.4-b306fbbe67ce97b052a3ca7c8f50ceefc5868790.jar
+D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\ormlite-android-4.48-9e22f3e3603f29a0dbc0c2ba64c3030a6d9d0c03.jar
+D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\androidannotations-api-3.2-b7a3ddef1dda156002c49755ddc8e587dc19fa25.jar
+D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\weibo.sdk.android.sso-6dd2492240708422df3c6c6a901000ebfd819953.jar
+D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\android-async-http-1.4.6-03cc9372789c8cd0cd7770cfd68affd9d7775117.jar
+D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\Java-WebSocket-1.2.0-leancloud-4ba959d6c1e5a2611cf933876a2c924bac2db828.jar
+D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\avoscloud-push-v3.0.4-0d02f98a43d009b0d1ce557254a36a1a0b11cd50.jar
+D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\fastjson-5a97ae2674020c28daa413db5668627f24695b1a.jar
+D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\xUtils-2.6.14-df0b4c736f45a2d96928553649f144dbbfd8e937.jar
+D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\ormlite-core-4.48-62ec44fa47388a42902d2c95ced7c147c27cdf52.jar
+D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\avoscloud-sdk-v3.0.4-2c0f8107ccd40eda1dfb26ebb59550f26a03a68b.jar
+D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\qq.sdk.1.6.1-e063006b09c2c05f18b244cf806501940c3c3ba2.jar
+D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\support-v4-18.0.0-badb87433f110e2ad7334502a7b39808e4b74cd8.jar

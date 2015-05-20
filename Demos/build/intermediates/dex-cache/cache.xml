@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Demos\MyNewsDemo\libs\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="D:\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\ormlite-core-4.48-09be34d011ed3cc104ad3e39c367a735b202667d.jar" />
+    </item>
+    <item
+        jar="D:\Demos\Lancloud_Demo\libs\avoscloud-statistics-v3.0.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="933d0fd4901ecc77c4d0e3443cc0a97534d1c5f2">
+        <dex dex="D:\Demos\Lancloud_Demo\build\intermediates\pre-dexed\debug\avoscloud-statistics-v3.0.4-4061b62e9e4607ec75c5312d50311266976351af.jar" />
+    </item>
+    <item
+        jar="D:\Demos\myapplication\libs\qq.sdk.1.6.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="896145203364b9e1d055cb81ac127bab139ad91d">
+        <dex dex="D:\Demos\myapplication\build\intermediates\pre-dexed\debug\qq.sdk.1.6.1-350b462aaa6c7c6c7944c0420d294e3d80da2b4d.jar" />
+    </item>
+    <item
+        jar="D:\Demos\MyNewsDemo\libs\fastjson.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d449ce9b6023c059db09be5170229162a77e007a">
+        <dex dex="D:\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\fastjson-15064fc6777cab14cf5fd1750ae2308614a530fe.jar" />
+    </item>
+    <item
+        jar="D:\Demos\second_demo\libs\weibo.sdk.android.sso.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e81daa09ae0ba8614ac736487b55fe3bb7679b87">
+        <dex dex="D:\Demos\second_demo\build\intermediates\pre-dexed\debug\weibo.sdk.android.sso-64ece57c7db8c92b5545ea2b1bcad6ba7143d42d.jar" />
+    </item>
+    <item
+        jar="D:\Demos\myapplication\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\Demos\myapplication\build\intermediates\pre-dexed\debug\classes-299b9123cbf4089accfd69641a5a473c62da4c68.jar" />
+    </item>
+    <item
+        jar="D:\Demos\myapplication\libs\avoscloud-push-v3.0.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1baf90fc9993702e76461a79ec040b91bf8b2ecc">
+        <dex dex="D:\Demos\myapplication\build\intermediates\pre-dexed\debug\avoscloud-push-v3.0.4-f46eeceb96bade59698b3f960d8782eba85713c9.jar" />
+    </item>
+    <item
+        jar="D:\Demos\second_demo\libs\qq.sdk.1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="896145203364b9e1d055cb81ac127bab139ad91d">
+        <dex dex="D:\Demos\second_demo\build\intermediates\pre-dexed\debug\qq.sdk.1.6.1-56f6aef03ffe74b153e3cd2b0c770c5256a68616.jar" />
+    </item>
+    <item
+        jar="D:\Demos\myapplication\libs\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="D:\Demos\myapplication\build\intermediates\pre-dexed\debug\ormlite-core-4.48-44cae100d9891f0d663aa445e098e706b8b35fab.jar" />
+    </item>
+    <item
+        jar="D:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\Demos\Lancloud_Demo\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-0307cb368207b3a960818e7c4195a0b6b5cb7cdd.jar" />
+    </item>
+    <item
+        jar="D:\Hello_Demo\Demos\MyNewsDemo\libs\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\android-async-http-1.4.6-03cc9372789c8cd0cd7770cfd68affd9d7775117.jar" />
+    </item>
+    <item
+        jar="D:\Demos\second_demo\libs\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="D:\Demos\second_demo\build\intermediates\pre-dexed\debug\ormlite-core-4.48-321ae136ac3310fb2c3a686f24367ea782c064d8.jar" />
+    </item>
+    <item
+        jar="D:\Demos\second_demo\libs\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="D:\Demos\second_demo\build\intermediates\pre-dexed\debug\android-async-http-1.4.6-673c4010d1a0b82dde34f6461b3782babf979748.jar" />
+    </item>
+    <item
+        jar="D:\Demos\second_demo\libs\avoscloud-push-v3.0.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1baf90fc9993702e76461a79ec040b91bf8b2ecc">
+        <dex dex="D:\Demos\second_demo\build\intermediates\pre-dexed\debug\avoscloud-push-v3.0.4-f5c04deb020311ad3a1a8f2c14365c2aca78ff9a.jar" />
+    </item>
+    <item
+        jar="D:\Demos\Lancloud_Demo\libs\weibo.sdk.android.sso.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e81daa09ae0ba8614ac736487b55fe3bb7679b87">
+        <dex dex="D:\Demos\Lancloud_Demo\build\intermediates\pre-dexed\debug\weibo.sdk.android.sso-c4d987628ab511198755bfc7d24f6d8a078dd2d1.jar" />
+    </item>
+    <item
+        jar="D:\Demos\myapplication\libs\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="D:\Demos\myapplication\build\intermediates\pre-dexed\debug\android-async-http-1.4.6-5663a90ba27f823548b116485e1d879d14fbb2f2.jar" />
+    </item>
+    <item
+        jar="D:\Demos\MyNewsDemo\libs\weibo.sdk.android.sso.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e81daa09ae0ba8614ac736487b55fe3bb7679b87">
+        <dex dex="D:\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\weibo.sdk.android.sso-99c4e65b6dec7b11e52932f801570d9ed355a0d8.jar" />
+    </item>
+    <item
+        jar="D:\Hello_Demo\Demos\MyNewsDemo\libs\Java-WebSocket-1.2.0-leancloud.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="221fb6750fcf164a85a98bbbafe0879e18868562">
+        <dex dex="D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\Java-WebSocket-1.2.0-leancloud-4ba959d6c1e5a2611cf933876a2c924bac2db828.jar" />
+    </item>
+    <item
+        jar="D:\Demos\second_demo\libs\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="D:\Demos\second_demo\build\intermediates\pre-dexed\debug\ormlite-android-4.48-cffe6514214fb27ac5f0fe2a47197505fabf7da8.jar" />
+    </item>
+    <item
+        jar="D:\Hello_Demo\Demos\MyNewsDemo\libs\avoscloud-push-v3.0.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1baf90fc9993702e76461a79ec040b91bf8b2ecc">
+        <dex dex="D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\avoscloud-push-v3.0.4-0d02f98a43d009b0d1ce557254a36a1a0b11cd50.jar" />
+    </item>
+    <item
+        jar="D:\Demos\second_demo\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Demos\second_demo\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-14bcfd86886c12ee1519eeda9462c03e04d964a1.jar" />
+    </item>
+    <item
+        jar="D:\Demos\Lancloud_Demo\libs\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="D:\Demos\Lancloud_Demo\build\intermediates\pre-dexed\debug\android-async-http-1.4.6-0f5742616ee37b38d73289345887e463db6bd2ea.jar" />
+    </item>
+    <item
+        jar="D:\Demos\Lancloud_Demo\libs\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="D:\Demos\Lancloud_Demo\build\intermediates\pre-dexed\debug\ormlite-android-4.48-b33c93dbc56a8906e5b8bc869425148faeabc3b1.jar" />
+    </item>
+    <item
+        jar="D:\Demos\second_demo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Demos\second_demo\build\intermediates\pre-dexed\debug\classes-5b90e4eae28e951ba4616a102960d318bda8ca3d.jar" />
+    </item>
+    <item
+        jar="D:\Hello_Demo\Demos\MyNewsDemo\libs\fastjson.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d449ce9b6023c059db09be5170229162a77e007a">
+        <dex dex="D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\fastjson-5a97ae2674020c28daa413db5668627f24695b1a.jar" />
+    </item>
+    <item
+        jar="D:\Hello_Demo\Demos\MyNewsDemo\libs\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\ormlite-android-4.48-9e22f3e3603f29a0dbc0c2ba64c3030a6d9d0c03.jar" />
+    </item>
+    <item
+        jar="D:\Demos\MyNewsDemo\libs\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="D:\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\ormlite-android-4.48-2d0d01151d7fba6bb98d29af5313f374620486b3.jar" />
+    </item>
+    <item
+        jar="D:\Demos\second_demo\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Demos\second_demo\build\intermediates\pre-dexed\debug\classes-0df00c75be71f22603efa4b144eba6fd72b82ec0.jar" />
+    </item>
+    <item
+        jar="D:\Demos\myapplication\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\Demos\myapplication\build\intermediates\pre-dexed\debug\classes-1ca2059fbe58b6a8f666048a57ae35c2bfd5eab3.jar" />
+    </item>
+    <item
+        jar="D:\Demos\Lancloud_Demo\libs\avoscloud-push-v3.0.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1baf90fc9993702e76461a79ec040b91bf8b2ecc">
+        <dex dex="D:\Demos\Lancloud_Demo\build\intermediates\pre-dexed\debug\avoscloud-push-v3.0.4-cd8f73bfb33b644e94c880415e0a0a6a11f1431a.jar" />
+    </item>
+    <item
+        jar="D:\Demos\myapplication\libs\avoscloud-statistics-v3.0.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="933d0fd4901ecc77c4d0e3443cc0a97534d1c5f2">
+        <dex dex="D:\Demos\myapplication\build\intermediates\pre-dexed\debug\avoscloud-statistics-v3.0.4-ef269947f9fe74a7d50ffadeab8dce8018a0de14.jar" />
+    </item>
+    <item
+        jar="D:\Hello_Demo\Demos\MyNewsDemo\libs\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\ormlite-core-4.48-62ec44fa47388a42902d2c95ced7c147c27cdf52.jar" />
+    </item>
+    <item
+        jar="D:\Demos\second_demo\libs\avoscloud-sdk-v3.0.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1350e6cf8f0292419d5a7add7767cbfd2b020f56">
+        <dex dex="D:\Demos\second_demo\build\intermediates\pre-dexed\debug\avoscloud-sdk-v3.0.4-142c1e40b92360556ad1b0dcdf8de14d7a82045d.jar" />
+    </item>
+    <item
+        jar="D:\Demos\MyNewsDemo\libs\avoscloud-sdk-v3.0.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1350e6cf8f0292419d5a7add7767cbfd2b020f56">
+        <dex dex="D:\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\avoscloud-sdk-v3.0.4-9c7f2d71c7b92bcc515e512075113af109076f8f.jar" />
+    </item>
+    <item
+        jar="D:\Demos\Lancloud_Demo\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\Demos\Lancloud_Demo\build\intermediates\pre-dexed\debug\classes-85d25f4a3d55a8d3fe3afa1a3e5b274d80d4a43f.jar" />
+    </item>
+    <item
+        jar="D:\Demos\myapplication\libs\weibo.sdk.android.sso.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e81daa09ae0ba8614ac736487b55fe3bb7679b87">
+        <dex dex="D:\Demos\myapplication\build\intermediates\pre-dexed\debug\weibo.sdk.android.sso-990a3cd64ab6a5a10a0569faef29e89b5247aeea.jar" />
+    </item>
+    <item
+        jar="D:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\Demos\myapplication\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-0307cb368207b3a960818e7c4195a0b6b5cb7cdd.jar" />
+    </item>
+    <item
+        jar="D:\Demos\myapplication\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\Demos\myapplication\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-d66afb1b368f88b8927d1d45d401f63026a871eb.jar" />
+    </item>
+    <item
+        jar="D:\Demos\MyNewsDemo\libs\Java-WebSocket-1.2.0-leancloud.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="221fb6750fcf164a85a98bbbafe0879e18868562">
+        <dex dex="D:\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\Java-WebSocket-1.2.0-leancloud-4fcfd68ed194a6b91d0f3c8a52f26bbad1e198e2.jar" />
+    </item>
+    <item
+        jar="D:\Demos\second_demo\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\Demos\second_demo\build\intermediates\pre-dexed\debug\xUtils-2.6.14-9c7d51e82e4fa3cfb3033bee08ee6de1b791642c.jar" />
+    </item>
+    <item
+        jar="D:\Hello_Demo\Demos\MyNewsDemo\libs\avoscloud-sdk-v3.0.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1350e6cf8f0292419d5a7add7767cbfd2b020f56">
+        <dex dex="D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\avoscloud-sdk-v3.0.4-2c0f8107ccd40eda1dfb26ebb59550f26a03a68b.jar" />
+    </item>
+    <item
+        jar="D:\Demos\MyNewsDemo\libs\qq.sdk.1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="896145203364b9e1d055cb81ac127bab139ad91d">
+        <dex dex="D:\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\qq.sdk.1.6.1-645333b58e723bee63603be498f2947d836b7e55.jar" />
+    </item>
+    <item
+        jar="D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\exploded-aar\Demos\librar\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bdc3ba9c46662cf2a0ea6e909fdfdf50fa807e6d">
+        <dex dex="D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\classes-f0f74de0ad117bf63d40fe3eb3fba2af1c62251c.jar" />
+    </item>
+    <item
+        jar="D:\Hello_Demo\Demos\MyNewsDemo\libs\weibo.sdk.android.sso.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e81daa09ae0ba8614ac736487b55fe3bb7679b87">
+        <dex dex="D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\weibo.sdk.android.sso-6dd2492240708422df3c6c6a901000ebfd819953.jar" />
+    </item>
+    <item
+        jar="D:\Demos\Lancloud_Demo\libs\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="D:\Demos\Lancloud_Demo\build\intermediates\pre-dexed\debug\ormlite-core-4.48-7d04ca73eb2c64b1ef0c372ae14fc2644fe20b29.jar" />
+    </item>
+    <item
+        jar="D:\Demos\Lancloud_Demo\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\Demos\Lancloud_Demo\build\intermediates\pre-dexed\debug\xUtils-2.6.14-55e938bd2e7588a6555abc42f7015b7579c9f1b6.jar" />
+    </item>
+    <item
+        jar="D:\Demos\Lancloud_Demo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\Demos\Lancloud_Demo\build\intermediates\pre-dexed\debug\classes-55fc0d026761220a864b996036e07f68674a63f8.jar" />
+    </item>
+    <item
+        jar="D:\Demos\second_demo\libs\fastjson.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d449ce9b6023c059db09be5170229162a77e007a">
+        <dex dex="D:\Demos\second_demo\build\intermediates\pre-dexed\debug\fastjson-51fb4a4f66cdaebe611a26c0ae29f4d3ca854309.jar" />
+    </item>
+    <item
+        jar="D:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Demos\second_demo\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-2a4d67304208109bc02f581e8621c9f8d54def8e.jar" />
+    </item>
+    <item
+        jar="D:\Demos\myapplication\libs\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="D:\Demos\myapplication\build\intermediates\pre-dexed\debug\ormlite-android-4.48-5b540e2d232254cdf20340e8ab178f69a429e9bb.jar" />
+    </item>
+    <item
+        jar="D:\Demos\MyNewsDemo\libs\avoscloud-push-v3.0.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1baf90fc9993702e76461a79ec040b91bf8b2ecc">
+        <dex dex="D:\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\avoscloud-push-v3.0.4-dc2e26ddc43b6ab51c98719352584e8879d20404.jar" />
+    </item>
+    <item
+        jar="D:\Hello_Demo\Demos\MyNewsDemo\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\xUtils-2.6.14-df0b4c736f45a2d96928553649f144dbbfd8e937.jar" />
+    </item>
+    <item
+        jar="C:\Users\hd94\.gradle\caches\modules-2\files-2.1\org.androidannotations\androidannotations-api\3.2\89b33bb1e996eb2c4089f79d1b8651c71fe8e2d1\androidannotations-api-3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="89b33bb1e996eb2c4089f79d1b8651c71fe8e2d1">
+        <dex dex="D:\Demos\second_demo\build\intermediates\pre-dexed\debug\androidannotations-api-3.2-b7a3ddef1dda156002c49755ddc8e587dc19fa25.jar" />
+    </item>
+    <item
+        jar="D:\Demos\myapplication\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\Demos\myapplication\build\intermediates\pre-dexed\debug\xUtils-2.6.14-6b24683d20c7a8569d53760cda5c7061bf6a70b8.jar" />
+    </item>
+    <item
+        jar="D:\Demos\myapplication\libs\Java-WebSocket-1.2.0-leancloud.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="221fb6750fcf164a85a98bbbafe0879e18868562">
+        <dex dex="D:\Demos\myapplication\build\intermediates\pre-dexed\debug\Java-WebSocket-1.2.0-leancloud-6fc32aba1364f37f324587c730d26c995312bdfc.jar" />
+    </item>
+    <item
+        jar="D:\Demos\MyNewsDemo\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\xUtils-2.6.14-42c81e6282ff3eb6b3ac258c8d2fb9420525f1e4.jar" />
+    </item>
+    <item
+        jar="D:\Demos\MyNewsDemo\libs\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="D:\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\android-async-http-1.4.6-cb0b7ec6bcae510e866a924a2f0e1f925715c586.jar" />
+    </item>
+    <item
+        jar="D:\Demos\MyNewsDemo\build\intermediates\exploded-aar\Demos\librar\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ffe228ca88695fb625400c3d458ae0f1709ba6ae">
+        <dex dex="D:\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\classes-5d252c8c9596946b36550629359166533c75878b.jar" />
+    </item>
+    <item
+        jar="D:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\support-v4-18.0.0-badb87433f110e2ad7334502a7b39808e4b74cd8.jar" />
+    </item>
+    <item
+        jar="D:\Demos\Lancloud_Demo\libs\qq.sdk.1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="896145203364b9e1d055cb81ac127bab139ad91d">
+        <dex dex="D:\Demos\Lancloud_Demo\build\intermediates\pre-dexed\debug\qq.sdk.1.6.1-540a7651e84174b05d399d27f9c275599c4830c6.jar" />
+    </item>
+    <item
+        jar="D:\Hello_Demo\Demos\MyNewsDemo\libs\avoscloud-statistics-v3.0.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="933d0fd4901ecc77c4d0e3443cc0a97534d1c5f2">
+        <dex dex="D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\avoscloud-statistics-v3.0.4-b306fbbe67ce97b052a3ca7c8f50ceefc5868790.jar" />
+    </item>
+    <item
+        jar="D:\Hello_Demo\Demos\MyNewsDemo\libs\qq.sdk.1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="896145203364b9e1d055cb81ac127bab139ad91d">
+        <dex dex="D:\Hello_Demo\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\qq.sdk.1.6.1-e063006b09c2c05f18b244cf806501940c3c3ba2.jar" />
+    </item>
+    <item
+        jar="D:\Demos\Lancloud_Demo\libs\fastjson.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d449ce9b6023c059db09be5170229162a77e007a">
+        <dex dex="D:\Demos\Lancloud_Demo\build\intermediates\pre-dexed\debug\fastjson-4f964b450616e607dfb7519d663c17a1add88e35.jar" />
+    </item>
+    <item
+        jar="D:\Demos\Lancloud_Demo\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\Demos\Lancloud_Demo\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-4180f66da1252b68bd785e2e1f97478d8d4efcb8.jar" />
+    </item>
+    <item
+        jar="D:\Demos\Lancloud_Demo\libs\avoscloud-sdk-v3.0.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1350e6cf8f0292419d5a7add7767cbfd2b020f56">
+        <dex dex="D:\Demos\Lancloud_Demo\build\intermediates\pre-dexed\debug\avoscloud-sdk-v3.0.4-652352e1d99a7d0dc1ddaf44a7915001c5de0c39.jar" />
+    </item>
+    <item
+        jar="D:\Demos\myapplication\libs\avoscloud-sdk-v3.0.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1350e6cf8f0292419d5a7add7767cbfd2b020f56">
+        <dex dex="D:\Demos\myapplication\build\intermediates\pre-dexed\debug\avoscloud-sdk-v3.0.4-d0c4092ce4e53b30f2a0e7c4847d7b7834d96ef7.jar" />
+    </item>
+    <item
+        jar="D:\Demos\second_demo\libs\avoscloud-statistics-v3.0.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="933d0fd4901ecc77c4d0e3443cc0a97534d1c5f2">
+        <dex dex="D:\Demos\second_demo\build\intermediates\pre-dexed\debug\avoscloud-statistics-v3.0.4-8b056f8d03720f4d1a4111fcce2c4b5ed9354525.jar" />
+    </item>
+    <item
+        jar="D:\Demos\second_demo\libs\Java-WebSocket-1.2.0-leancloud.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="221fb6750fcf164a85a98bbbafe0879e18868562">
+        <dex dex="D:\Demos\second_demo\build\intermediates\pre-dexed\debug\Java-WebSocket-1.2.0-leancloud-fa5b59dbb2311343a617b98d41a7de5430dc81dc.jar" />
+    </item>
+    <item
+        jar="D:\Demos\MyNewsDemo\libs\avoscloud-statistics-v3.0.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="933d0fd4901ecc77c4d0e3443cc0a97534d1c5f2">
+        <dex dex="D:\Demos\MyNewsDemo\build\intermediates\pre-dexed\debug\avoscloud-statistics-v3.0.4-6647cd1e918533666598e144913d084e8fa2fa96.jar" />
+    </item>
+    <item
+        jar="D:\Demos\Lancloud_Demo\libs\Java-WebSocket-1.2.0-leancloud.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="221fb6750fcf164a85a98bbbafe0879e18868562">
+        <dex dex="D:\Demos\Lancloud_Demo\build\intermediates\pre-dexed\debug\Java-WebSocket-1.2.0-leancloud-773030c5cf26bb8890325a637b497875e4188c62.jar" />
+    </item>
+    <item
+        jar="D:\Demos\myapplication\libs\fastjson.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d449ce9b6023c059db09be5170229162a77e007a">
+        <dex dex="D:\Demos\myapplication\build\intermediates\pre-dexed\debug\fastjson-029b0089d038f0e43a6da0af6293b442c168dae7.jar" />
+    </item>
+
+</items>
